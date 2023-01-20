@@ -1,0 +1,122 @@
+{
+  "title": "Baseline-v1",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "Gamemaster Shit",
+      "type": "Item",
+      "name": "gamemaster-shit",
+      "path": "packs/gamemaster-shit.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Talents: Android",
+      "type": "Item",
+      "name": "talents-android",
+      "path": "packs/talents-android.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Talents: EPG",
+      "type": "Item",
+      "name": "talents-epg",
+      "path": "packs/talents-epg.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Talents: GCRB",
+      "type": "Item",
+      "name": "talents-gcrb",
+      "path": "packs/talents-gcrb.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Talents: Keyforge",
+      "type": "Item",
+      "name": "talents-keyforge",
+      "path": "packs/talents-keyforge.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Talents: Terrinoth",
+      "type": "Item",
+      "name": "talents-terrinoth",
+      "path": "packs/talents-terrinoth.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Creatures",
+      "type": "Actor",
+      "name": "creatures",
+      "path": "packs/creatures.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Stonemoor Characters",
+      "type": "Actor",
+      "name": "stonemoor-characters",
+      "path": "packs/stonemoor-characters.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Ranged Weapons",
+      "type": "Item",
+      "name": "ranged-weapons",
+      "path": "packs/ranged-weapons.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Gun Locker",
+      "type": "Item",
+      "name": "gun-locker",
+      "path": "packs/gun-locker.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {},
+      "package": "world",
+      "id": "world.gun-locker",
+      "packageType": "world",
+      "packageName": "c-team-heros",
+      "index": []
+    },
+    {
+      "label": "Talents: ALL",
+      "type": "Item",
+      "name": "talents-all",
+      "path": "packs/talents-all.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {},
+      "package": "world"
+    }
+  ],
+  "system": "starwarsffg",
+  "background": "https://assets.forge-vtt.com/62ee9f1e91246c8cdf644cbb/images/Adventures%20in%20Tamriel.png",
+  "coreVersion": "10.291",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.80-alpha5",
+  "id": "c-team-heros",
+  "compatibility": {
+    "verified": "10.291",
+    "minimum": "10"
+  }
+}
