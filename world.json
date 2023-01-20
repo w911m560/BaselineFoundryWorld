@@ -75,15 +75,6 @@
       "flags": {}
     },
     {
-      "label": "Ranged Weapons",
-      "type": "Item",
-      "name": "ranged-weapons",
-      "path": "packs/ranged-weapons.db",
-      "system": "starwarsffg",
-      "private": false,
-      "flags": {}
-    },
-    {
       "label": "Talents: ALL",
       "type": "Item",
       "name": "talents-all",
@@ -99,12 +90,7 @@
       "path": "packs/weapons-sotb.db",
       "system": "starwarsffg",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.weapons-sotb",
-      "packageType": "world",
-      "packageName": "c-team-heros",
-      "index": []
+      "flags": {}
     },
     {
       "label": "Weapons: Gun Locker",
@@ -113,12 +99,7 @@
       "path": "packs/weapons-gun-locker.db",
       "system": "starwarsffg",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.weapons-gun-locker",
-      "packageType": "world",
-      "packageName": "c-team-heros",
-      "index": []
+      "flags": {}
     },
     {
       "label": "Armour: SotB",
@@ -127,16 +108,25 @@
       "path": "packs/armour-sotb.db",
       "system": "starwarsffg",
       "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Weapons: Basic Fantasy",
+      "type": "Item",
+      "name": "weapons-basic-fantasy",
+      "path": "packs/weapons-basic-fantasy.db",
+      "system": "starwarsffg",
+      "private": false,
       "flags": {},
       "package": "world",
-      "id": "world.armour-sotb",
+      "id": "world.weapons-basic-fantasy",
       "packageType": "world",
       "packageName": "c-team-heros",
       "index": []
     }
   ],
   "system": "starwarsffg",
-  "background": "https://assets.forge-vtt.com/62ee9f1e91246c8cdf644cbb/images/Adventures%20in%20Tamriel.png",
+  "background": "nue/defaultscene/fvtt-background.webp",
   "coreVersion": "10.291",
   "resetKeys": false,
   "safeMode": false,
