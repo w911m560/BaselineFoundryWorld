@@ -84,28 +84,55 @@
       "flags": {}
     },
     {
-      "label": "Gun Locker",
-      "type": "Item",
-      "name": "gun-locker",
-      "path": "packs/gun-locker.db",
-      "system": "starwarsffg",
-      "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.gun-locker",
-      "packageType": "world",
-      "packageName": "c-team-heros",
-      "index": []
-    },
-    {
       "label": "Talents: ALL",
       "type": "Item",
       "name": "talents-all",
       "path": "packs/talents-all.db",
       "system": "starwarsffg",
       "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Weapons: SotB",
+      "type": "Item",
+      "name": "weapons-sotb",
+      "path": "packs/weapons-sotb.db",
+      "system": "starwarsffg",
+      "private": false,
       "flags": {},
-      "package": "world"
+      "package": "world",
+      "id": "world.weapons-sotb",
+      "packageType": "world",
+      "packageName": "c-team-heros",
+      "index": []
+    },
+    {
+      "label": "Weapons: Gun Locker",
+      "type": "Item",
+      "name": "weapons-gun-locker",
+      "path": "packs/weapons-gun-locker.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {},
+      "package": "world",
+      "id": "world.weapons-gun-locker",
+      "packageType": "world",
+      "packageName": "c-team-heros",
+      "index": []
+    },
+    {
+      "label": "Armour: SotB",
+      "type": "Item",
+      "name": "armour-sotb",
+      "path": "packs/armour-sotb.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {},
+      "package": "world",
+      "id": "world.armour-sotb",
+      "packageType": "world",
+      "packageName": "c-team-heros",
+      "index": []
     }
   ],
   "system": "starwarsffg",

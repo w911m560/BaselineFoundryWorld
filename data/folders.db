@@ -4,3 +4,13 @@
 {"name":"Roll Tables (Shared)","type":"RollTable","folder":null,"description":"","sorting":"a","sort":0,"color":null,"flags":{},"_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null},"_id":"CNTs93kQvXZv5TSm"}
 {"name":"Player Journals","type":"JournalEntry","sorting":"a","sort":0,"color":"#19177d","flags":{},"_id":"YRwIWKJaoTxLOwKw","folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
 {"name":"Quests","type":"JournalEntry","sorting":"a","sort":0,"color":null,"flags":{},"_id":"hsgt3w3vbi2ZzruW","folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Weapons: SotB","sorting":"a","folder":null,"type":"Item","description":"","sort":0,"color":"#ff0000","flags":{},"_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null},"_id":"EG2Yi9bpqiLvNLGX"}
+{"$$deleted":true,"_id":"EG2Yi9bpqiLvNLGX"}
+{"name":"Gun Locker","type":"Item","folder":null,"description":"","sorting":"a","sort":0,"color":null,"flags":{},"_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null},"_id":"EGXrGRye7S8OklXM"}
+{"$$deleted":true,"_id":"EGXrGRye7S8OklXM"}
+{"name":"fds","sorting":"a","folder":null,"type":"Item","description":"","sort":0,"color":null,"flags":{},"_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null},"_id":"Uc1CGcrAUVXF25PT"}
+{"$$deleted":true,"_id":"Uc1CGcrAUVXF25PT"}
+{"name":"lo","sorting":"a","folder":null,"type":"Item","description":"","sort":0,"color":null,"flags":{},"_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null},"_id":"9nYAK9iZv2jseGN6"}
+{"$$deleted":true,"_id":"9nYAK9iZv2jseGN6"}
+{"name":"Armour","sorting":"a","folder":null,"type":"Item","description":"","sort":0,"color":null,"flags":{},"_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null},"_id":"fXCSc0eTxqrUYjk0"}
+{"$$deleted":true,"_id":"fXCSc0eTxqrUYjk0"}
