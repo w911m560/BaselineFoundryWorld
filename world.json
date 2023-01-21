@@ -111,15 +111,15 @@
       "flags": {}
     },
     {
-      "label": "Weapons: Basic Fantasy",
+      "label": "Gear & Weapons: Core Rulebook",
       "type": "Item",
-      "name": "weapons-basic-fantasy",
-      "path": "packs/weapons-basic-fantasy.db",
+      "name": "gear-and-weapons-core-rulebook",
+      "path": "packs/gear-and-weapons-core-rulebook.db",
       "system": "starwarsffg",
       "private": false,
       "flags": {},
       "package": "world",
-      "id": "world.weapons-basic-fantasy",
+      "id": "world.gear-and-weapons-core-rulebook",
       "packageType": "world",
       "packageName": "c-team-heros",
       "index": []
