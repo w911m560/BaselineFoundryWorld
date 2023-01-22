@@ -75,15 +75,6 @@
       "flags": {}
     },
     {
-      "label": "Talents: ALL",
-      "type": "Item",
-      "name": "talents-all",
-      "path": "packs/talents-all.db",
-      "system": "starwarsffg",
-      "private": false,
-      "flags": {}
-    },
-    {
       "label": "Weapons: SotB",
       "type": "Item",
       "name": "weapons-sotb",
@@ -153,8 +144,49 @@
       "path": "packs/gear-arcanum.db",
       "system": "starwarsffg",
       "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Armour: Fallout *Corrupt Soak*",
+      "type": "Item",
+      "name": "armour-fallout-corrupt-soak",
+      "path": "packs/armour-fallout-corrupt-soak.db",
+      "system": "starwarsffg",
+      "private": false,
       "flags": {},
-      "package": "world"
+      "package": "world",
+      "id": "world.armour-fallout-corrupt-soak",
+      "packageType": "world",
+      "packageName": "c-team-heros",
+      "index": []
+    },
+    {
+      "label": "Weapons: Fallout *Corrupt Skills*",
+      "type": "Item",
+      "name": "weapons-fallout-corrupt-skills",
+      "path": "packs/weapons-fallout-corrupt-skills.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {},
+      "package": "world",
+      "id": "world.weapons-fallout-corrupt-skills",
+      "packageType": "world",
+      "packageName": "c-team-heros",
+      "index": []
+    },
+    {
+      "label": "Talents: All (Talents Expanded V5)",
+      "type": "Item",
+      "name": "talents-all-talents-expanded-v5",
+      "path": "packs/talents-all-talents-expanded-v5.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {},
+      "package": "world",
+      "id": "world.talents-all-talents-expanded-v5",
+      "packageType": "world",
+      "packageName": "c-team-heros",
+      "index": []
     }
   ],
   "system": "starwarsffg",
