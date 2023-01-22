@@ -117,12 +117,7 @@
       "path": "packs/gear-core-rulebook.db",
       "system": "starwarsffg",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.gear-core-rulebook",
-      "packageType": "world",
-      "packageName": "c-team-heros",
-      "index": []
+      "flags": {}
     },
     {
       "label": "Gear: SotB",
@@ -131,12 +126,7 @@
       "path": "packs/gear-sotb.db",
       "system": "starwarsffg",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.gear-sotb",
-      "packageType": "world",
-      "packageName": "c-team-heros",
-      "index": []
+      "flags": {}
     },
     {
       "label": "Gear: Expanded Players Guide",
@@ -145,18 +135,22 @@
       "path": "packs/gear-expanded-players-guide.db",
       "system": "starwarsffg",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.gear-expanded-players-guide",
-      "packageType": "world",
-      "packageName": "c-team-heros",
-      "index": []
+      "flags": {}
     },
     {
       "label": "Gear: Terrinoth",
       "type": "Item",
       "name": "gear-terrinoth",
       "path": "packs/gear-terrinoth.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Gear: Arcanum",
+      "type": "Item",
+      "name": "gear-arcanum",
+      "path": "packs/gear-arcanum.db",
       "system": "starwarsffg",
       "private": false,
       "flags": {},
@@ -168,7 +162,7 @@
   "coreVersion": "10.291",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.80-alpha5",
+  "systemVersion": "1.80-alpha7",
   "id": "c-team-heros",
   "compatibility": {
     "verified": "10.291",
