@@ -1,16 +1,7 @@
 {
-  "title": "Baseline-v1",
+  "title": "Baseline-v2",
   "version": "1.0.0",
   "packs": [
-    {
-      "label": "Gamemaster Shit",
-      "type": "Item",
-      "name": "gamemaster-shit",
-      "path": "packs/gamemaster-shit.db",
-      "system": "starwarsffg",
-      "private": false,
-      "flags": {}
-    },
     {
       "label": "Talents: Android",
       "type": "Item",
@@ -61,15 +52,6 @@
       "type": "Actor",
       "name": "creatures",
       "path": "packs/creatures.db",
-      "system": "starwarsffg",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "label": "Stonemoor Characters",
-      "type": "Actor",
-      "name": "stonemoor-characters",
-      "path": "packs/stonemoor-characters.db",
       "system": "starwarsffg",
       "private": false,
       "flags": {}
@@ -147,46 +129,37 @@
       "flags": {}
     },
     {
-      "label": "Armour: Fallout *Corrupt Soak*",
-      "type": "Item",
-      "name": "armour-fallout-corrupt-soak",
-      "path": "packs/armour-fallout-corrupt-soak.db",
-      "system": "starwarsffg",
-      "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.armour-fallout-corrupt-soak",
-      "packageType": "world",
-      "packageName": "c-team-heros",
-      "index": []
-    },
-    {
-      "label": "Weapons: Fallout *Corrupt Skills*",
-      "type": "Item",
-      "name": "weapons-fallout-corrupt-skills",
-      "path": "packs/weapons-fallout-corrupt-skills.db",
-      "system": "starwarsffg",
-      "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.weapons-fallout-corrupt-skills",
-      "packageType": "world",
-      "packageName": "c-team-heros",
-      "index": []
-    },
-    {
       "label": "Talents: All (Talents Expanded V5)",
       "type": "Item",
       "name": "talents-all-talents-expanded-v5",
       "path": "packs/talents-all-talents-expanded-v5.db",
       "system": "starwarsffg",
       "private": false,
+      "flags": {}
+    },
+    {
+      "label": "itemtest",
+      "type": "Item",
+      "name": "itemtest",
+      "path": "packs/itemtest.db",
+      "system": "starwarsffg",
+      "private": false,
       "flags": {},
       "package": "world",
-      "id": "world.talents-all-talents-expanded-v5",
+      "id": "world.itemtest",
       "packageType": "world",
       "packageName": "c-team-heros",
       "index": []
+    },
+    {
+      "label": "f",
+      "type": "Actor",
+      "name": "f",
+      "path": "packs/f.db",
+      "system": "starwarsffg",
+      "private": false,
+      "flags": {},
+      "package": "world"
     }
   ],
   "system": "starwarsffg",
