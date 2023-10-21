@@ -163,6 +163,8 @@
     }
   ],
   "system": "starwarsffg",
+  "manifest": "https://raw.githubusercontent.com/w911m560/BaselineFoundryWorld/main/world.json",
+  "download": "https://github.com/w911m560/BaselineFoundryWorld/releases/latest/download/c-team-heros.zip",
   "background": "nue/defaultscene/fvtt-background.webp",
   "coreVersion": "10.291",
   "resetKeys": false,
